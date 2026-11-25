@@ -30,4 +30,3 @@
 <a href="https://github.com/AdvanceCity">
   <img src="./advance-roleplay.png" width="350" alt="Advance Roleplay" />
 </a>
-###
