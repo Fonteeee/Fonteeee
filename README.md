@@ -25,8 +25,7 @@
 
 ###
 
-<div data-importer="image" align="right">
-  <img data-importer="image" height="200" src="https://cdn.discordapp.com/attachments/1492261811461029991/1575278051577565184/advance-roleplay.png?ex=6b08b382&is=6b076202&hm=08ef3226009c5b02120e8e2bb4cead0c5b6c6166bb4d186e147fb967d514af19"  />
-</div>
-
+<a href="https://github.com/AdvanceCity">
+  <img src="./advance-roleplay.png" width="350" alt="Advance Roleplay" />
+</a>
 ###
