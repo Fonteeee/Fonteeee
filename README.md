@@ -20,13 +20,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
 </div>
-
-###
-
-<h2 data-importer="text" align="left">Connecting players with</h2>
-
-###
-
-<a href="https://github.com/AdvanceCity">
-  <img src="./advance-roleplay.png" width="350" alt="Advance Roleplay" />
-</a>
